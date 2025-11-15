@@ -1,5 +1,6 @@
 <?php
 
+    /* some silly change */
     /* Render header + filters (reuse we1rdo filters) */
     if (!isset($data['spotsonly'])) {
         require_once __DIR__.'/includes/header.inc.php';
