@@ -3,7 +3,7 @@
 
     $pagetitle = _('Change user preferences');
 
-    /* If we run embedded in a dialog, dont run the HTML header as that messes up things */
+    /* If we run embedded in a dialog, dont run the HTML header as that messes up things that should be clear */
     if (!$dialogembedded) {
 
         /* Redirect to the calling page */
