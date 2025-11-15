@@ -1,0 +1,14 @@
+2019/10/25 19:59:50 [notice] 4436#5952: signal process started
+2023/11/29 16:35:48 [notice] 7728#9116: signal process started
+2023/11/29 16:35:48 [error] 7728#9116: OpenEvent("Global\ngx_stop_5888") failed (5: FormatMessage() error:(15100))
+2023/11/29 16:35:51 [notice] 6460#6528: signal process started
+2023/11/29 16:35:51 [error] 6460#6528: OpenEvent("Global\ngx_stop_5888") failed (5: FormatMessage() error:(15100))
+2023/11/29 16:36:52 [notice] 3092#10128: signal process started
+2023/11/29 16:40:36 [notice] 8612#312: signal process started
+2023/11/29 16:44:30 [emerg] 3796#10180: CreateFile() "D:\nginx/conf\nginx-ssl.conf" failed (2: FormatMessage() error:(15100))
+2023/11/29 16:45:42 [notice] 3056#832: signal process started
+2023/11/29 16:46:12 [notice] 8696#5860: signal process started
+2023/11/29 16:46:12 [error] 8696#5860: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: FormatMessage() error:(15100))
+2023/11/29 16:55:35 [notice] 7196#7172: signal process started
+2023/11/29 21:35:27 [notice] 6896#6060: signal process started
+2023/11/29 21:43:35 [notice] 4412#4304: signal process started
